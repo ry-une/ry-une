@@ -7,6 +7,7 @@
   </ruby> 
 </h1>
 
+[![](https://img.shields.io/badge/-ry--une-181717?style=flat&logo=github)](https://github.com/ry-une)
 [![GitHub](https://img.shields.io/badge/GitHub-ry--une-black?style=flat&logo=github)](https://github.com/ry-une)
 ![GitHub followers](https://img.shields.io/github/followers/ry-une)
 ![Profile views counter](https://komarev.com/ghpvc/?username=ry-une&&style=flat-square)  
