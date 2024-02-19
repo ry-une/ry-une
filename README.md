@@ -10,6 +10,8 @@
 [![](https://img.shields.io/badge/-ry--une-181717?style=flat&logo=github)](https://github.com/ry-une)
 ![GitHub followers](https://img.shields.io/github/followers/ry-une)
 ![Profile views counter](https://komarev.com/ghpvc/?username=ry-une&&style=flat-square)  
+[![Wakatime](https://wakatime.com/badge/user/ry-une.svg)](https://wakatime.com/@ry-une)
+
 
 
 <br>  
