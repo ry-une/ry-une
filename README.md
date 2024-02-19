@@ -12,12 +12,11 @@
 <br>  
 
 
-![Static Badge](https://img.shields.io/badge/Python-white)
-![Static Badge](https://img.shields.io/badge/Shell%20Scripting-blue)
-![Static Badge](https://img.shields.io/badge/HTML-white)
-![Static Badge](https://img.shields.io/badge/JavaScript-green)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/SQL-white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Glad to see you here!  
 I’m a Cybersecurity Student <br>
