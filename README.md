@@ -25,11 +25,11 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>   -->
   
-![Static Badge](https://img.shields.io/badge/Python-black)
+![Static Badge](https://img.shields.io/badge/Python-white)
 ![Static Badge](https://img.shields.io/badge/Shell%20Scripting-blue)
-![Static Badge](https://img.shields.io/badge/HTML-black)
+![Static Badge](https://img.shields.io/badge/HTML-white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-green)
-![Static Badge](https://img.shields.io/badge/SQL-black)
+![Static Badge](https://img.shields.io/badge/SQL-white)
 
 
 ### Glad to see you here!  
