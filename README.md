@@ -14,7 +14,11 @@
 <br>  
 
 
-
+![Static Badge](https://img.shields.io/badge/Python-white)
+![Static Badge](https://img.shields.io/badge/Shell%20Scripting-blue)
+![Static Badge](https://img.shields.io/badge/HTML-white)
+![Static Badge](https://img.shields.io/badge/JavaScript-green)
+![Static Badge](https://img.shields.io/badge/SQL-white)
 
 ### Glad to see you here!  
 I’m a Cybersecurity Student <br>
