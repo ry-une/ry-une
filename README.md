@@ -45,6 +45,8 @@ in: SNHU, PNU
 [<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="35" style="margin: 10px 30px;" />](https://www.python.org/)
 [<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" style="margin: 10px 30px;" />](https://github.com/)
 [<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="Git" height="35" style="margin: 10px 30px;" />](https://github.com/)
+[<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Git" height="35" style="margin: 10px 30px; filter: invert(100%);" />](https://github.com/)
+
 
 
 
