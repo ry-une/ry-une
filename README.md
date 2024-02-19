@@ -37,17 +37,8 @@ in: SNHU, PNU
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🔭 I’m currently working on Security Analyst Student  
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
