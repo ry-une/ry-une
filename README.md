@@ -12,7 +12,7 @@
 </a>
 
 ![GitHub followers](https://img.shields.io/github/followers/ry-une)
-![GitHub watchers](https://img.shields.io/github/watchers/ry-une/ry-une)
+![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
 
 
 <br>  
