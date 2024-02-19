@@ -16,6 +16,7 @@
 ![Static Badge](https://img.shields.io/badge/Shell%20Scripting-blue)
 ![Static Badge](https://img.shields.io/badge/HTML-white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-green)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/SQL-white)
 
 ### Glad to see you here!  
