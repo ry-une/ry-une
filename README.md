@@ -8,13 +8,12 @@
 </h1>
 
 <a href="https://github.com/ry-une" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-
-  ![GitHub followers](https://img.shields.io/github/followers/ry-une)
-  
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />  
 </a>
 
 ![GitHub followers](https://img.shields.io/github/followers/ry-une)
+![GitHub watchers](https://img.shields.io/github/watchers/ry-une/ry-une)
+
 
 <br>  
 
