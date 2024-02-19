@@ -6,7 +6,7 @@
     <img src="https://i.ibb.co/z7BtbPJ/Cyberyune-Logo-2.png" width=270" alt="" />
   </ruby> 
 </h1>
-  
+[![Github Badge](https://img.shields.io/badge/-ry-une-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/ry-une/)](https://www.github.com/ry-une/)  
 ![GitHub followers](https://img.shields.io/github/followers/ry-une)
 ![Static Badge](https://img.shields.io/badge/github-white)
 
