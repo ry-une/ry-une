@@ -7,13 +7,13 @@
   </ruby> 
 </h1>
   
-
+![GitHub followers](https://img.shields.io/github/followers/ry-une)
 <a href="https://github.com/ry-une" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 15px;" />
 </a>
 <br>  
 
-![GitHub followers](https://img.shields.io/github/followers/ry-une)
+
 ![Static Badge](https://img.shields.io/badge/Python-white)
 ![Static Badge](https://img.shields.io/badge/Shell%20Scripting-blue)
 ![Static Badge](https://img.shields.io/badge/HTML-white)
