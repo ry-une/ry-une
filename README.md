@@ -1,9 +1,12 @@
 ## Hey 👋, I'm Ryune!  
   
 
-<div align="center">
-<img src="https://i.ibb.co/z7BtbPJ/Cyberyune-Logo-2.png" align="center" height="" width="" />
-</div>  
+<h1 align="center">
+ <ruby>
+    <img src="https://i.ibb.co/z7BtbPJ/Cyberyune-Logo-2.png" width=270" alt="" />
+     ## Hey 👋, I'm Ryune! 
+  </ruby> 
+</h1>
   
 
 <a href="https://github.com/ry-une" target="_blank">
