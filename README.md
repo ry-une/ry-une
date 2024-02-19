@@ -11,28 +11,9 @@
 <a href="https://github.com/ry-une" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 15px;" />
 </a>
-<!-- <a href="https://twitter.com/Ryune" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/Ryune" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Ryune" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/Ryune" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/Ryune" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>   -->
 <br>  
 
-![Static Badge](https://img.shields.io/badge/Python-white)
-![Static Badge](https://img.shields.io/badge/Shell%20Scripting-blue)
-![Static Badge](https://img.shields.io/badge/HTML-white)
-![Static Badge](https://img.shields.io/badge/JavaScript-green)
-![Static Badge](https://img.shields.io/badge/SQL-white)
+
 
 
 ### Glad to see you here!  
@@ -42,7 +23,11 @@ in: SNHU, PNU
   
 
 <br/>  
-
+![Static Badge](https://img.shields.io/badge/Python-white)
+![Static Badge](https://img.shields.io/badge/Shell%20Scripting-blue)
+![Static Badge](https://img.shields.io/badge/HTML-white)
+![Static Badge](https://img.shields.io/badge/JavaScript-green)
+![Static Badge](https://img.shields.io/badge/SQL-white)
 
 - 🔭 I’m currently pursuing my degree in Cybersecurity  
 
