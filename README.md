@@ -4,7 +4,6 @@
 <h1 align="center">
  <ruby>
     <img src="https://i.ibb.co/z7BtbPJ/Cyberyune-Logo-2.png" width=270" alt="" />
-     ## Hey 👋, I'm Ryune! 
   </ruby> 
 </h1>
   
