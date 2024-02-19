@@ -9,6 +9,7 @@
 <a href="https://github.com/ry-une" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+![GitHub followers](https://img.shields.io/github/followers/ry-une)
 <!-- <a href="https://twitter.com/Ryune" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -24,7 +25,8 @@
 <a href="https://instagram.com/Ryune" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>   -->
-  
+<br>  
+
 ![Static Badge](https://img.shields.io/badge/Python-white)
 ![Static Badge](https://img.shields.io/badge/Shell%20Scripting-blue)
 ![Static Badge](https://img.shields.io/badge/HTML-white)
