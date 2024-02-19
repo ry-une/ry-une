@@ -29,8 +29,8 @@
 
 
 ### Glad to see you here!  
-I’m a Cybersecurity Student
-Pharmacy Graduate
+I’m a Cybersecurity Student <br>
+Pharmacy Graduate <br>
 in: SNHU, PNU  
   
 
