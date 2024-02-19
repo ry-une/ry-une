@@ -37,7 +37,7 @@ in: SNHU, PNU
 <br/>  
 
 
-- 🔭 I’m currently working on Security Analyst Student  
+- 🔭 I’m currently pursuing my degree in Cybersecurity  
 
 
 <br/>  
