@@ -13,7 +13,7 @@
 </a>
 <br>  
 
-
+![GitHub followers](https://img.shields.io/github/followers/ry-une)
 ![Static Badge](https://img.shields.io/badge/Python-white)
 ![Static Badge](https://img.shields.io/badge/Shell%20Scripting-blue)
 ![Static Badge](https://img.shields.io/badge/HTML-white)
@@ -27,11 +27,6 @@ in: SNHU, PNU
   
 
 <br/>  
-![Static Badge](https://img.shields.io/badge/Python-white)
-![Static Badge](https://img.shields.io/badge/Shell%20Scripting-blue)
-![Static Badge](https://img.shields.io/badge/HTML-white)
-![Static Badge](https://img.shields.io/badge/JavaScript-green)
-![Static Badge](https://img.shields.io/badge/SQL-white)
 
 - 🔭 I’m currently pursuing my degree in Cybersecurity  
 
