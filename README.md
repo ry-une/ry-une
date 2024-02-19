@@ -37,17 +37,16 @@ in: SNHU, PNU
 <br/>  
 
 
-## Languages and Tools  
+## Languages and Tools
 
-<div align="center">   
-    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="35" style="margin: 10px 30px;" /></a>  
-    <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" style="margin: 10px 30px;" /></a>    
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="35" style="margin: 10px 30px;" /></a>   
-    <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="35" style="margin: 10px 30px;" /></a>   
-    <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" style="margin: 10px 30px;" /></a>
-    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sql-original-wordmark.svg" alt="SQL" height="35" style="margin: 10px 30px;" /></a>
-    <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bash-original.svg" alt="Shell Script" height="35" style="margin: 10px 30px;" /></a>
-</div>
+[<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="35" style="margin: 10px 30px;" />](https://en.wikipedia.org/wiki/HTML5)
+[<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" style="margin: 10px 30px;" />](https://www.javascript.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="35" style="margin: 10px 30px;" />](https://www.mysql.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="35" style="margin: 10px 30px;" />](https://www.python.org/)
+[<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" style="margin: 10px 30px;" />](https://github.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/sql-original-wordmark.svg" alt="SQL" height="35" style="margin: 10px 30px;" />](https://en.wikipedia.org/wiki/SQL)
+[<img src="https://profilinator.rishav.dev/skills-assets/bash-original.svg" alt="Shell Script" height="35" style="margin: 10px 30px;" />](https://en.wikipedia.org/wiki/Shell_script)
+
 
 
 
