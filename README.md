@@ -7,7 +7,9 @@
   </ruby> 
 </h1>
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://github.com/ry-une" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 
 ![GitHub followers](https://img.shields.io/github/followers/ry-une)
 
