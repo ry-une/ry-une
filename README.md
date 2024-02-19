@@ -11,8 +11,6 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />  
 </a>
 
-[![Github Badge](https://img.shields.io/badge/-ry-une-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/ry-une/)](https://www.github.com/ry-une/)
-
 ![GitHub followers](https://img.shields.io/github/followers/ry-une)
 ![Profile views counter](https://komarev.com/ghpvc/?username=ry-une&&style=flat-square)  
 
