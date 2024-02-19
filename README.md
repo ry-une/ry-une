@@ -44,8 +44,7 @@ in: SNHU, PNU
 [<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="35" style="margin: 10px 30px;" />](https://www.mysql.com/)
 [<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="35" style="margin: 10px 30px;" />](https://www.python.org/)
 [<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" style="margin: 10px 30px;" />](https://github.com/)
-[<img src="https://profilinator.rishav.dev/skills-assets/sql-original-wordmark.svg" alt="SQL" height="35" style="margin: 10px 30px;" />](https://en.wikipedia.org/wiki/SQL)
-[<img src="https://profilinator.rishav.dev/skills-assets/bash-original.svg" alt="Shell Script" height="35" style="margin: 10px 30px;" />](https://en.wikipedia.org/wiki/Shell_script)
+
 
 
 
