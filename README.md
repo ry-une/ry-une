@@ -26,8 +26,7 @@
 ### Glad to see you here!  
 I’m a Cybersecurity Student <br>
 Pharmacy Graduate <br>
-in: SNHU, PNU  
-  
+in: SNHU, PNU    
 <br/>  
 
 - 🔭 I’m currently pursuing my degree in Cybersecurity  
