@@ -28,6 +28,7 @@ I’m a Cybersecurity Student <br>
 Pharmacy Graduate <br>
 in: SNHU, PFU    
 <br/>  
+- 🔭 My role doesn't involve coding, so this is merely for clout.  
 
 - 🔭 I’m currently pursuing my degree in Cybersecurity  
 
