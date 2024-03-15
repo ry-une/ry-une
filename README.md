@@ -30,7 +30,7 @@ in: SNHU, PFU
 <br/>  
 -  My role doesn't involve coding, so this is merely for scripts or side projects.  
 
-- 🔭 I’m currently pursuing my degree in Cybersecurity  
+-  I’m currently pursuing my degree in Cybersecurity  
 
 
 <br/>  
