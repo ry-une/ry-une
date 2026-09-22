@@ -26,11 +26,11 @@
 ### Glad to see you here!  
 I’m a Cybersecurity Student <br>
 Pharmacy Graduate <br>
-in: SNHU, PFU    
+in: SNHU, PF   
 <br/>  
 -  My role doesn't involve coding, so this is merely for scripts or side projects.  
 
--  I’m currently pursuing my degree in Cybersecurity  
+-  I’m currently pursuing my second degree in Information Technology   
 
 
 <br/>  
