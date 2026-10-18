@@ -1,45 +1,73 @@
-<img src="assets/profile-banner.svg" alt="Ryan Maderas — Technology risk, IT audit, and cybersecurity GRC" width="100%" />
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile-banner-mobile.svg" />
+  <img src="assets/profile-banner.svg" alt="Ryan Maderas — Technology risk, IT audit, and cybersecurity GRC. Clarity. Control. Precision." width="100%" />
+</picture>
 
 <br />
 
-I'm finishing a **BS in Information Technology at Mapúa University**, with an associate degree in cybersecurity and previous IT and compliance-related experience in an authorized Kia dealership operation.
+I'm **Ryan Maderas**, a BS Information Technology student at **Mapúa University**, building practical tools at the intersection of software, access controls, and audit evidence.
 
-I'm pursuing a career in **technology risk, IT audit, and cybersecurity GRC**, with a particular interest in identity and access management, control testing, and software that makes audit evidence easier to examine.
-
-[LinkedIn](https://www.linkedin.com/in/ryune) · [Selected projects](#selected-projects) · [Current direction](#what-im-exploring)
+My background includes an associate degree in cybersecurity and previous IT and compliance-related experience at an authorized Kia dealership operation. I'm pursuing a career in **IT Audit, Technology Risk, Identity & Access Management, and Cybersecurity GRC**.
 
 ---
 
-### Selected projects
+## ♜ ROOK
 
-**[IT128 · C# and database coursework](https://github.com/ry-une/maderas-IT128)**  
-A blog data-access library, console application, and SQL Server database project. Coursework exploring application structure and database interaction.
+**Flagship project · Active private development**<br />
+Historical leaver-access IT audit testing workbench.
 
-<sub>C# · .NET · SQL Server · Academic project</sub>
+ROOK helps an auditor investigate a specific question: **Was a former employee's system access disabled within the approved policy deadline?**
 
-<br />
+- **Test the history.** Import HR records, application accounts, and access events; evaluate access removal deterministically against configurable deadlines.
+- **Trace the evidence.** Identify potential exceptions, examine investigation timelines, and follow results back to source records.
+- **Document the judgment.** Record human review and conclusions; export reproducible CSV workpapers and JSON evidence packages.
 
-**[Casa Philippines · Static website](https://github.com/ry-une/Casa-Philippines)**  
+**v0.1 implemented, tested, independently code-reviewed, and merged into main.** A synthetic-data, local-demo prototype; not production-ready enterprise software. Source remains private.
+
+> Potential exceptions are not confirmed findings. Missing evidence never establishes a pass. Current disabled status does not prove timely historical removal. Final audit conclusions belong to human reviewers.
+
+TypeScript · Next.js · React · Tailwind CSS · Vitest · Playwright
+
+Built with AI assistance, with deterministic evaluation and human review kept separate.
+
+---
+
+## Selected projects
+
+### [IT128 · C# and database coursework](https://github.com/ry-une/maderas-IT128)
+
+A blog data-access library, console application, and SQL Server database project. Academic work exploring application structure and database interaction.
+
+C# · .NET · SQL Server
+
+### [Casa Philippines · Static website](https://github.com/ry-une/Casa-Philippines)
+
 A bakery website with home, about, menu, and contact pages. A front-end learning project using Bootstrap components; the contact form is a demonstration without a backend.
 
-<sub>HTML · CSS · Bootstrap · Learning project</sub>
+HTML · CSS · Bootstrap
 
 ---
 
-### Education & current study
+## Technical foundation & interests
+
+**Building with** — TypeScript, React, Next.js, Tailwind CSS, C#, .NET, SQL Server, HTML, CSS, and Git.
+
+**Engineering practice** — Input validation, deterministic business rules, unit and browser testing, and traceable exports.
+
+**Developing depth in** — IT audit, technology risk, identity and access management, control testing, evidence quality, and cybersecurity GRC.
+
+## Education & professional development
 
 - **Mapúa University** — BS Information Technology, in progress · Dean's Lister
 - **Southern New Hampshire University** — Associate Degree in Cybersecurity · Summa Cum Laude
-- **CISA** — Currently studying toward the examination
+- **CISA examination** — Currently studying; not CISA-certified
 
-### What I'm exploring
+## Connect
 
-**Leaver-access audit testing workbench** · Planning
+[LinkedIn](https://www.linkedin.com/in/ryune)
 
-A proposed tool for reconciling employee termination records, application accounts, and historical access events. The intended outcome is traceable evidence, clearly explained potential control exceptions, and workpapers that support an auditor's review.
-
-The project is currently being scoped; implementation has not started.
+Open to conversations about IT audit, technology risk, IAM, and practical audit tooling.
 
 ---
 
-<sub>Current work reflects my learning in software and IT. My next focus is applying that foundation to access controls and audit evidence.</sub>
+**Clarity. Control. Precision.**
