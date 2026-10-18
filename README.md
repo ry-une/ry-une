@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-banner-mobile.svg" />
-  <img src="assets/profile-banner.svg" alt="Ryan Maderas — Technology risk, IT audit, and cybersecurity GRC. Clarity. Control. Precision." width="100%" />
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/ry-une/ry-une/b3344cf13c0505ebbb4fc4257c7e2381764df539/assets/profile-banner-mobile.svg" />
+  <img src="https://raw.githubusercontent.com/ry-une/ry-une/b3344cf13c0505ebbb4fc4257c7e2381764df539/assets/profile-banner.svg" alt="Ryan Maderas — Technology risk, IT audit, and cybersecurity GRC. Clarity. Control. Precision." width="100%" />
 </picture>
 
 <br />
