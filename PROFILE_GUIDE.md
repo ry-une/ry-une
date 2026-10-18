@@ -1,35 +1,42 @@
 # Profile style and maintenance guide
 
-This guide keeps the public profile consistent as the portfolio grows.
+The public introduction lives in [README.md](README.md). Lead with Ryan's technology risk direction, feature ROOK, then show selected public projects, technical foundations, education, and contact.
 
 ## Visual identity
 
-The [profile banner](assets/profile-banner.svg) uses graphite surfaces, off-white typography, and restrained violet and blue accents.
+ROOK: a chess rook, disciplined geometry, and **Clarity. Control. Precision.**
 
 | Role | Color |
 | --- | --- |
-| Background | `#111216` to `#1b1c26` |
+| Charcoal background | `#111216` |
 | Primary text | `#f1f1f5` |
-| Secondary text | `#b7b7c5` |
-| Violet accent | `#a89ada` |
-| Blue accent | `#7189b5` |
+| Silver text | `#c1c0cb` |
+| Secondary text | `#aaa7b8` |
+| Muted violet accent | `#a89ada` |
+| Border | `#35343f` |
 
-Keep graphics static and compact. Use meaningful alternative text. Check that any avatar remains recognizable in a circular crop at small sizes. Avoid essential information that appears only inside an image.
+The static [desktop banner](assets/profile-banner.svg) and [mobile banner](assets/profile-banner-mobile.svg) have explicit backgrounds so their contrast remains stable in either GitHub theme. A GitHub-compatible `picture` element selects the compact composition at viewport widths of 600px or less. Native Markdown follows the reader's GitHub theme.
+
+Use system fonts, local SVGs, meaningful alternative text, and one column. Keep essential information in text as well as the graphic. Avoid external font or image services, scripts, animation, badges, and layout tables. Preserve the existing account avatar.
 
 ## Content standards
 
-- Distinguish completed work, coursework, learning exercises, and planned projects.
-- Describe only features supported by the repository contents.
-- Present certification study separately from certifications earned.
-- Keep selected projects limited to work with substantive source material and usable documentation.
-- Do not publish employer records, real employee access data, credentials, or private audit evidence. Use synthetic examples for future audit tooling.
+- Keep career direction distinct from professional titles or experience already earned.
+- Describe the dealership experience accurately; do not imply employment by Kia corporate.
+- Distinguish completed work, coursework, learning exercises, and planned features.
+- Keep ROOK's private status and synthetic local-demo limitations visible. Do not link readers to private repositories or copy private application source, documentation, or screenshots into this public repository without explicit approval.
+- Describe independent code review as code review, not independent audit assurance or a security certification.
+- Preserve the distinction between potential exceptions and findings, missing evidence and a pass, current status and historical timeliness, and automated results and human conclusions.
+- Retain the AI-assistance disclosure without implying autonomous audit judgments.
+- Present CISA examination preparation separately from certification earned.
+- Preserve the verified LinkedIn URL and public project links. Do not add a public email address without the owner's direction.
 
 ## Before publishing an update
 
-1. Check project descriptions against the current source and documentation.
-2. Verify relative links and section anchors in the rendered README.
-3. Preview images and text on both light and dark backgrounds.
-4. Confirm that study status, education, and project maturity remain accurate.
-5. Use a focused commit or pull request explaining the change.
+1. Check feature and verification claims against the current project records. Refresh status only when evidence supports it.
+2. Verify relative images and links in GitHub's rendered README on the proposed branch.
+3. Inspect light and dark themes and narrow mobile layouts; check image loading, text size, and horizontal overflow.
+4. Confirm education, study status, experience, and project maturity remain accurate.
+5. Use a focused pull request. The owner reviews and approves merging.
 
-The public introduction lives in [README.md](README.md). Repository documentation should explain purpose, setup, limitations, and the actual scope of the work.
+GitHub supports the `picture` element in Markdown: [GitHub image guidance](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github#adding-an-image).

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="260" viewBox="0 0 480 260" role="img" aria-labelledby="title desc">
+  <title id="title">Ryan Maderas — Technology risk</title>
+  <desc id="desc">IT audit and cybersecurity GRC. A compact charcoal banner with a geometric chess rook. Clarity. Control. Precision.</desc>
+  <rect width="480" height="260" rx="12" fill="#111216"/>
+  <rect x=".5" y=".5" width="479" height="259" rx="11.5" fill="none" stroke="#35343f"/>
+  <path d="M360 24v72M396 24v72M432 24v72M348 36h108M348 72h108" fill="none" stroke="#a89ada" stroke-opacity=".12"/>
+  <rect x="28" y="30" width="28" height="3" fill="#a89ada"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="28" y="70" fill="#bbb4ce" font-size="17" letter-spacing="1.6">TECHNOLOGY RISK</text>
+    <text x="26" y="133" fill="#f1f1f5" font-size="43" font-weight="600" letter-spacing="-1.5">Ryan Maderas</text>
+    <text x="28" y="174" fill="#c1c0cb" font-size="21">IT audit · Cybersecurity GRC</text>
+    <text x="28" y="227" fill="#aaa7b8" font-size="19">Clarity. Control. Precision.</text>
+  </g>
+  <g transform="translate(390 30) scale(.48)" fill="none" stroke="#bbb4ce" stroke-width="3" stroke-linejoin="miter">
+    <path d="M0 0h18v18h16V0h18v18h16V0h18v34L70 48v48H16V48L0 34Z" fill="#191820"/>
+    <path d="M16 96H8v14h70V96M16 48h54M16 82h54"/>
+  </g>
+</svg>

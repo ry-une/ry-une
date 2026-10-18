@@ -1,20 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Ryan Maderas</title>
-  <desc id="desc">A portfolio focused on technology risk, IT audit, and cybersecurity GRC.</desc>
-  <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111216"/><stop offset="1" stop-color="#1b1c26"/></linearGradient>
-    <linearGradient id="accent"><stop stop-color="#a89ada"/><stop offset="1" stop-color="#7189b5"/></linearGradient>
-  </defs>
-  <rect width="1200" height="320" rx="16" fill="url(#bg)"/>
-  <rect x="1" y="1" width="1198" height="318" rx="15" fill="none" stroke="#30313d"/>
-  <path d="M870 66h210v188H870z M902 98h146v124H902z M934 130h82v60h-82z" fill="none" stroke="#9a91bc" stroke-opacity=".19"/>
-  <path d="M870 160h64m82 0h64" stroke="#9a91bc" stroke-opacity=".35"/>
-  <circle cx="934" cy="160" r="4" fill="#a89ada"/>
-  <rect x="64" y="62" width="40" height="3" rx="1.5" fill="url(#accent)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="256" viewBox="0 0 960 256" role="img" aria-labelledby="title desc">
+  <title id="title">Ryan Maderas — Technology risk</title>
+  <desc id="desc">IT audit and cybersecurity GRC. A geometric chess rook on charcoal with muted violet details. Clarity. Control. Precision.</desc>
+  <rect width="960" height="256" rx="12" fill="#111216"/>
+  <rect x=".5" y=".5" width="959" height="255" rx="11.5" fill="none" stroke="#35343f"/>
+  <path d="M704 32v192M760 32v192M816 32v192M872 32v192M680 72h248M680 128h248M680 184h248" fill="none" stroke="#a89ada" stroke-opacity=".09"/>
+  <path d="M704 72h56v56h56v56h56" fill="none" stroke="#a89ada" stroke-opacity=".38"/>
+  <rect x="44" y="38" width="32" height="3" fill="#a89ada"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="64" y="111" fill="#a8a9b6" font-size="14" letter-spacing="3">TECHNOLOGY / RISK / CONTROLS</text>
-    <text x="60" y="180" fill="#f1f1f5" font-size="58" font-weight="600" letter-spacing="-2">Ryan Maderas</text>
-    <text x="64" y="224" fill="#b7b7c5" font-size="20">IT audit · Cybersecurity GRC · Access controls</text>
-    <text x="64" y="276" fill="#8d8e9f" font-size="13" letter-spacing="1.4">LEARNING WITH INTENT. BUILDING WITH CARE.</text>
+    <text x="44" y="77" fill="#bbb4ce" font-size="14" letter-spacing="2.5">TECHNOLOGY RISK</text>
+    <text x="41" y="139" fill="#f1f1f5" font-size="52" font-weight="600" letter-spacing="-1.8">Ryan Maderas</text>
+    <text x="44" y="177" fill="#c1c0cb" font-size="20">IT audit · Cybersecurity GRC</text>
+    <text x="44" y="221" fill="#aaa7b8" font-size="15">Clarity. Control. Precision.</text>
   </g>
+  <g transform="translate(761 70)" fill="none" stroke="#bbb4ce" stroke-width="2" stroke-linejoin="miter">
+    <path d="M0 0h18v18h16V0h18v18h16V0h18v34L70 48v48H16V48L0 34Z" fill="#191820"/>
+    <path d="M16 96H8v14h70V96M16 48h54M16 82h54"/>
+  </g>
+  <text x="804" y="214" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#aaa7b8" font-size="13" letter-spacing="4">ROOK</text>
 </svg>
