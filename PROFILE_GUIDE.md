@@ -15,7 +15,7 @@ ROOK: an architectural silver rook with a recessed violet core, faceted edges, a
 | Muted violet accent | `#a89ada` |
 | Border | `#35343f` |
 
-The static [desktop banner](assets/profile-banner.svg) and [mobile banner](assets/profile-banner-mobile.svg) have explicit backgrounds so their contrast remains stable in either GitHub theme. A GitHub-compatible `picture` element selects the compact composition at viewport widths of 600px or less. Native Markdown follows the reader's GitHub theme.
+The static [desktop banner](assets/profile-banner.svg) and [mobile banner](assets/profile-banner-mobile.svg) have explicit backgrounds so their contrast remains stable in either GitHub theme. A GitHub-compatible `picture` element selects the compact composition at viewport widths of 600px or less. Native Markdown follows the reader's GitHub theme. The README image URLs are pinned to the approved artwork's commit so GitHub and browser caches cannot serve an earlier design under the same URL. Whenever banner artwork changes, update both pinned URLs to the new artwork commit after it exists.
 
 Use system fonts, local SVGs, meaningful alternative text, and one column. Keep essential information in text as well as the graphic. Avoid external font or image services, scripts, animation, badges, and layout tables. Preserve the existing account avatar.
 
