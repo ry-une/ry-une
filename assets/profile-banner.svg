@@ -1,20 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="256" viewBox="0 0 960 256" role="img" aria-labelledby="title desc">
   <title id="title">Ryan Maderas — Technology risk</title>
-  <desc id="desc">IT audit and cybersecurity GRC. A geometric chess rook on charcoal with muted violet details. Clarity. Control. Precision.</desc>
-  <rect width="960" height="256" rx="12" fill="#111216"/>
-  <rect x=".5" y=".5" width="959" height="255" rx="11.5" fill="none" stroke="#35343f"/>
-  <path d="M704 32v192M760 32v192M816 32v192M872 32v192M680 72h248M680 128h248M680 184h248" fill="none" stroke="#a89ada" stroke-opacity=".09"/>
-  <path d="M704 72h56v56h56v56h56" fill="none" stroke="#a89ada" stroke-opacity=".38"/>
-  <rect x="44" y="38" width="32" height="3" fill="#a89ada"/>
+  <desc id="desc">IT audit and cybersecurity GRC. An architectural silver rook with a recessed violet core on charcoal. Clarity. Control. Precision.</desc>
+  <defs>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2=".85"><stop stop-color="#f0edf0"/><stop offset=".27" stop-color="#c4c3cc"/><stop offset=".55" stop-color="#81818f"/><stop offset=".79" stop-color="#b7b5c2"/><stop offset="1" stop-color="#666573"/></linearGradient>
+    <linearGradient id="side" x1="0" y1="0" x2=".35" y2="1"><stop stop-color="#6c687c"/><stop offset="1" stop-color="#24232d"/></linearGradient>
+    <linearGradient id="crown" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7f3f4"/><stop offset="1" stop-color="#8c879e"/></linearGradient>
+    <linearGradient id="core" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d5c4f1"/><stop offset=".45" stop-color="#9a7fc6"/><stop offset="1" stop-color="#5b477c"/></linearGradient>
+    <radialGradient id="ambient"><stop stop-color="#5b466f" stop-opacity=".23"/><stop offset="1" stop-color="#111216" stop-opacity="0"/></radialGradient>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15151c"/><stop offset="1" stop-color="#0c0d11"/></linearGradient>
+  </defs>
+  <rect width="960" height="256" rx="12" fill="url(#surface)"/>
+  <ellipse cx="808" cy="124" rx="196" ry="164" fill="url(#ambient)"/>
+  <rect x=".5" y=".5" width="959" height="255" rx="11.5" fill="none" stroke="#33313d"/>
+  <path d="M44 39H74" stroke="#ac94d0" stroke-width="3"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="44" y="77" fill="#bbb4ce" font-size="14" letter-spacing="2.5">TECHNOLOGY RISK</text>
-    <text x="41" y="139" fill="#f1f1f5" font-size="52" font-weight="600" letter-spacing="-1.8">Ryan Maderas</text>
-    <text x="44" y="177" fill="#c1c0cb" font-size="20">IT audit · Cybersecurity GRC</text>
-    <text x="44" y="221" fill="#aaa7b8" font-size="15">Clarity. Control. Precision.</text>
+    <text x="44" y="78" fill="#bab3ca" font-size="14" letter-spacing="2.5">TECHNOLOGY RISK</text>
+    <text x="41" y="141" fill="#f1f0f5" font-size="54" font-weight="600" letter-spacing="-2">Ryan Maderas</text>
+    <text x="44" y="180" fill="#c1c0cb" font-size="20">IT audit · Cybersecurity GRC</text>
+    <text x="44" y="222" fill="#aaa7b8" font-size="15">Clarity. Control. Precision.</text>
   </g>
-  <g transform="translate(761 70)" fill="none" stroke="#bbb4ce" stroke-width="2" stroke-linejoin="miter">
-    <path d="M0 0h18v18h16V0h18v18h16V0h18v34L70 48v48H16V48L0 34Z" fill="#191820"/>
-    <path d="M16 96H8v14h70V96M16 48h54M16 82h54"/>
-  </g>
-  <text x="804" y="214" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#aaa7b8" font-size="13" letter-spacing="4">ROOK</text>
+  <path d="M658 48V208" stroke="#aaa0bc" stroke-opacity=".13"/>
+  <ellipse cx="807" cy="207" rx="67" ry="7" fill="#08090c" opacity=".65"/>
+  <g transform="translate(746 25) scale(.92)"><g stroke-linejoin="round">
+    <path d="M0 30 28 12H52L24 30ZM46 30 74 12H98L70 30ZM92 30 120 12H144L116 30Z" fill="url(#crown)"/>
+    <path d="M24 30 52 12V34L24 52ZM70 30 98 12V34L70 52Z" fill="#4c485c"/>
+    <path d="M24 52 52 34H74L46 52ZM70 52 98 34H120L92 52Z" fill="url(#crown)"/>
+    <path d="M116 30 144 12V62L122 84V132L136 146V166L108 184V164L94 150V102L116 80Z" fill="url(#side)"/>
+    <path d="M0 30H24V52H46V30H70V52H92V30H116V80L94 102V150L108 164V184H8V164L22 150V102L0 80Z" fill="url(#metal)"/>
+    <path d="M1 31H23M47 31H69M93 31H115M1 31V79L23 101V150L9 164V183" fill="none" stroke="#faf7ff" stroke-opacity=".48"/>
+    <path d="M22 102H94L86 111H30Z" fill="#53515f"/>
+    <path d="M22 150H94L108 164H8Z" fill="url(#crown)"/>
+    <path d="M8 174H108V184H8Z" fill="#55525f"/>
+    <path d="M8 174H108" stroke="#d0c9dd" stroke-opacity=".45"/>
+    <path d="M43 90 58 80 73 90V148H43Z" fill="#26232f"/>
+    <path d="M43 90 58 80V138L43 148Z" fill="#17151e"/>
+    <path d="M58 80 73 90V148L58 138Z" fill="url(#core)"/>
+    <path d="M43 148 58 138 73 148Z" fill="#d2c0ea"/>
+    <path d="M58 81V137" stroke="#e4d7fb" stroke-opacity=".7"/>
+  </g></g>
+  <text x="811" y="235" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#c8c3d3" font-size="13" letter-spacing="5">ROOK</text>
 </svg>
