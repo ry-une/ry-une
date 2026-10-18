@@ -4,7 +4,7 @@ The public introduction lives in [README.md](README.md). Lead with Ryan's techno
 
 ## Visual identity
 
-ROOK: a chess rook, disciplined geometry, and **Clarity. Control. Precision.**
+ROOK: an architectural silver rook with a recessed violet core, faceted edges, and **Clarity. Control. Precision.** The crown represents control; the protected center represents evidence. Use the [standalone mark](assets/rook-mark.svg) for future approved brand applications.
 
 | Role | Color |
 | --- | --- |
